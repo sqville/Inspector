@@ -1,0 +1,232 @@
+
+UPGRADE TO 4.1.1
+----------------------------------------------------------------------------
+  * Number of script input files: 40
+  * Number of HTML input files: 0
+  * Update to version: 4.1.1
+  * Searching for patch module...
+  * Searching for info expression data...
+    - Compiling expressions...
+    - Number of infos: 0
+  * Searching for patch expression data...
+    - Compiling expressions...
+    - Number of patches: 0
+
+  FILE PROCESSING:
+----------------------------------------------------------------------------
+  * Processing script files:
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\objects\fixture\InspectorModelMock.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\IInspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Controller.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\WidgetsWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\IFilter.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Color.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\AbstractModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\ConsoleWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\AbstractPropertyList.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Decoration.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\HashModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\Application.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\AbstractView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\components\InspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Theme.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\State.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\InspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\IPropertyListController.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\DomView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\AutoCompletePopup.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\Appender.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\objects\Model.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\ConsoleView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\PropertyWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Font.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Appearance.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\Util.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\Util.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Window.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\CountModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Model.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\PropertyList.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\view\ToolBar.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\Selector.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\AbstractWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\Filter.js
+  * Done
+
+UPGRADE TO 5.0
+----------------------------------------------------------------------------
+  * Number of script input files: 40
+  * Number of HTML input files: 0
+  * Update to version: 5.0
+  * Searching for patch module...
+  * Searching for info expression data...
+    - Compiling expressions...
+    - Number of infos: 0
+  * Searching for patch expression data...
+    - Compiling expressions...
+    - Number of patches: 0
+
+  FILE PROCESSING:
+----------------------------------------------------------------------------
+  * Processing script files:
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\objects\fixture\InspectorModelMock.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\IInspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Controller.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\WidgetsWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\IFilter.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Color.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\AbstractModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\ConsoleWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\AbstractPropertyList.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Decoration.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\HashModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\Application.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\AbstractView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\components\InspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Theme.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\State.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\InspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\IPropertyListController.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\DomView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\AutoCompletePopup.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\Appender.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\objects\Model.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\ConsoleView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\PropertyWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Font.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Appearance.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\Util.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\Util.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Window.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\CountModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Model.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\PropertyList.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\view\ToolBar.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\Selector.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\AbstractWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\Filter.js
+  * Done
+
+UPGRADE TO 5.0.1
+----------------------------------------------------------------------------
+  * Number of script input files: 40
+  * Number of HTML input files: 0
+  * Update to version: 5.0.1
+  * Searching for patch module...
+  * Searching for info expression data...
+    - Compiling expressions...
+    - Number of infos: 0
+  * Searching for patch expression data...
+    - Compiling expressions...
+    - Number of patches: 0
+
+  FILE PROCESSING:
+----------------------------------------------------------------------------
+  * Processing script files:
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\objects\fixture\InspectorModelMock.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\IInspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Controller.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\WidgetsWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\IFilter.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Color.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\AbstractModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\ConsoleWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\AbstractPropertyList.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Decoration.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\HashModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\Application.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\AbstractView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\components\InspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Theme.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\State.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\InspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\IPropertyListController.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\DomView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\AutoCompletePopup.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\Appender.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\objects\Model.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\ConsoleView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\PropertyWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Font.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Appearance.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\Util.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\Util.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Window.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\CountModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Model.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\PropertyList.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\view\ToolBar.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\Selector.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\AbstractWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\Filter.js
+  * Done
+
+UPGRADE TO 5.1
+----------------------------------------------------------------------------
+  * Number of script input files: 40
+  * Number of HTML input files: 0
+  * Update to version: 5.1
+  * Searching for patch module...
+  * Searching for info expression data...
+    - Compiling expressions...
+    - Number of infos: 0
+  * Searching for patch expression data...
+    - Compiling expressions...
+    - Number of patches: 0
+
+  FILE PROCESSING:
+----------------------------------------------------------------------------
+  * Processing script files:
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\objects\fixture\InspectorModelMock.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\IInspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Controller.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\WidgetsWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\IFilter.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Color.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\AbstractModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\ConsoleWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\AbstractPropertyList.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Decoration.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\HashModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\Application.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\AbstractView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\components\InspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Theme.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\State.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\InspectorModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\IPropertyListController.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\DomView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\AutoCompletePopup.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\Appender.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\test\objects\Model.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\ConsoleView.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\PropertyWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Font.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\theme\Appearance.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\console\Util.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\View.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\widgets\Util.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Window.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\table\CountModel.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\objects\Model.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\PropertyList.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\view\ToolBar.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\Selector.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\components\AbstractWindow.js
+  - File: C:\Users\ceskew\Documents\GitHub\qooxdoo\component\inspector\source\class\inspector\property\Filter.js
+  * Done

@@ -46,7 +46,7 @@
   "let" :
   {
     "APPLICATION"  : "inspector",
-    "QOOXDOO_PATH" : "../qooxdoo",
+    "QOOXDOO_PATH" : "../..",
     "CACHE"        : "${TMPDIR}/qx${QOOXDOO_VERSION}/cache",
     "QXTHEME"      : "inspector.theme.Theme",
     "API_EXCLUDE"  : ["qx.test.*", "inspector.test.*"],
